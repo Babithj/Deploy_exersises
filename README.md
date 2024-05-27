@@ -1,2 +1,2 @@
-# Deploy_exersises
-GIT hub Action demo for Deployment
+# GHaction
+GIT hub Action demo Deploy+ Exersise
